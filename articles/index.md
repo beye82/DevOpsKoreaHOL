@@ -1,7 +1,7 @@
-# 20200512 안녕하세요?
+# 안녕하세요?
 ## 잘 지내셨나요?
 ### 오늘 날씨는 어때요?
-
+#### 이제 저녁 시간이네요. 집에 가야죠.
 # Azure DevOps HOL
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
